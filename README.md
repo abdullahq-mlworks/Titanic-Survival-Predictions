@@ -17,7 +17,7 @@ Titanic-Survival-Predictions/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/abdullahq-mlworks/Titanic--Survival-Prediction.git
+   git clone https://github.com/abdullahq-mlworks/Titanic-Survival-Predictions.git
    cd Titanic-Survival-Predictions
 ````
 2. Install dependencies:
